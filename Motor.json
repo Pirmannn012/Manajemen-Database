@@ -1,0 +1,47 @@
+[
+  {
+    "_id": { "$oid": "60f7d2f5e3a5f35a2c0a4e91" },
+    "merk": "Honda",
+    "model": "CBR150R",
+    "tahun": 2022,
+    "warna": "Merah",
+    "harga": 36000000,
+    "jenis": "Sport"
+  },
+  {
+    "_id": { "$oid": "60f7d2f5e3a5f35a2c0a4e92" },
+    "merk": "Yamaha",
+    "model": "NMAX",
+    "tahun": 2023,
+    "warna": "Hitam",
+    "harga": 32000000,
+    "jenis": "Skuter"
+  },
+  {
+    "_id": { "$oid": "60f7d2f5e3a5f35a2c0a4e93" },
+    "merk": "Kawasaki",
+    "model": "Ninja 250",
+    "tahun": 2021,
+    "warna": "Hijau",
+    "harga": 64000000,
+    "jenis": "Sport"
+  },
+  {
+    "_id": { "$oid": "60f7d2f5e3a5f35a2c0a4e94" },
+    "merk": "Suzuki",
+    "model": "Satria F150",
+    "tahun": 2020,
+    "warna": "Biru",
+    "harga": 25000000,
+    "jenis": "Bebek"
+  },
+  {
+    "_id": { "$oid": "60f7d2f5e3a5f35a2c0a4e95" },
+    "merk": "Vespa",
+    "model": "Primavera",
+    "tahun": 2023,
+    "warna": "Putih",
+    "harga": 50000000,
+    "jenis": "Skuter"
+  }
+]
